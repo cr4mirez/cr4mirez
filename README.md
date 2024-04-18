@@ -19,7 +19,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,tailwind,angular,react,nextjs,nodejs,s,nest,php,laravel,git,vscode,figma&perline=8"/>
+<img width="400px"  src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,angular,react,figma,php,laravel,git,vscode&perline=6"/>
 </p>
 
 
